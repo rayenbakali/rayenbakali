@@ -2,7 +2,8 @@
 <div align="center">
   <a href="https://github.com/rayenbakali/rayenbakali">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rayenbakali&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayenbakali&layout=compact&langs_count=7&theme=tokyonight"/>
+  [![3 Top Langs](https://github-readme-stats-r8du3nvuw-droidzed.vercel.app/api/top-langs/?username=rayenbakali&theme=midnight-purple&langs_count=20&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
