@@ -1,10 +1,10 @@
 ## Bienvenue sur mon profile Github !
 <div align="center">
  
- [![rayenbakali](https://github-readme-stats-462pfs9nx-rayenbakali.vercel.app/api?username=rayenbakali&show_icons=true&theme=midnight-purple&include_all_commits=true&custom_title=rayenbakali&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![rayenbakali](https://github-readme-stats-462pfs9nx-rayenbakali.vercel.app/api?username=rayenbakali&show_icons=true&theme=midnight-purple&include_all_commits=true&custom_title=rayenbakali&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
  [![3 Top Langs](https://github-readme-stats-462pfs9nx-rayenbakali.vercel.app/api/top-langs/?username=rayenbakali&theme=midnight-purple&langs_count=20&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
