@@ -4,7 +4,8 @@
  [![Spotify](https://spotify-rayen-eo0cbnueb-rayenbakali.vercel.app/api/spotify)](https://open.spotify.com/user/31fgx4c4pruhsd5ud3wmdrhnxr4m)
  
 
-[![Rayen's GitHub stats](https://github-readme-stats-kohl-nu.vercel.app/api?username=rayenbakali&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Rayen's GitHub stats](https://github-readme-stats-kohl-nu.vercel.app/api?username=rayenbakali&theme=aura_dark&include_all_commits=true&custom_title=RayenBakali&count_private=true
+)](https://github.com/anuraghazra/github-readme-stats)
 
 
  
