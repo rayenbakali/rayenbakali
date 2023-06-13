@@ -1,7 +1,10 @@
-## Bienvenue sur mon profile Github !
+## Welcome to my github space
 <div align="center">
+
+ [![Spotify](https://spotify-rayen-cp86ddlir-rayenbakali.vercel.app/api/spotify)](https://open.spotify.com/user/31fgx4c4pruhsd5ud3wmdrhnxr4m?si=59d4f301b6264d4b)
  
 <!-- [![rayenbakali](https://github-readme-stats-462pfs9nx-rayenbakali.vercel.app/api?username=rayenbakali&show_icons=true&theme=midnight-purple&include_all_commits=true&custom_title=rayenbakali&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
  [![3 Top Langs](https://github-readme-stats-462pfs9nx-rayenbakali.vercel.app/api/top-langs/?username=rayenbakali&theme=midnight-purple&langs_count=20&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
@@ -12,9 +15,6 @@
       <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-
-
 </div>
   
   ##
