@@ -1,7 +1,7 @@
 ## Welcome to my github space
 <div align="center">
 
- [![Spotify](https://spotify-rayen-cp86ddlir-rayenbakali.vercel.app/api/spotify)](https://open.spotify.com/user/31fgx4c4pruhsd5ud3wmdrhnxr4m?si=59d4f301b6264d4b)
+ [![Spotify](https://spotify-rayen-cp86ddlir-rayenbakali.vercel.app/api/spotify)](https://open.spotify.com/user/31fgx4c4pruhsd5ud3wmdrhnxr4m)
  
 <!-- [![rayenbakali](https://github-readme-stats-462pfs9nx-rayenbakali.vercel.app/api?username=rayenbakali&show_icons=true&theme=midnight-purple&include_all_commits=true&custom_title=rayenbakali&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
